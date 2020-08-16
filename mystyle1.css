@@ -13,6 +13,7 @@ body{
   overflow: hidden;
   
 }
+
 /*Styling the header + the img*/
 #header{
   text-align: center;
@@ -38,6 +39,7 @@ body{
 #numbers{
   color:  #800080;
 }
+
 /*Styling the 2nd img + the img description*/
 #image{
   margin-top: 20px;
@@ -52,7 +54,8 @@ body{
   border: #800080 3px solid;
   border-radius: 3px;
 }
-/*Styling the info of the page*/
+
+/*Styling the main info of the page*/
 #tribute-info{
   margin-top: 10px;
   padding: 15px;
@@ -63,6 +66,7 @@ body{
   font-size: 30px;
   font-family: fantasy;
 }
+
 /*Styling the footer*/
 #footer{
  background-color:  #ffff00a8;
